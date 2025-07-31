@@ -1,0 +1,76 @@
+# ---------------------------
+# OS-generated junk files
+# ---------------------------
+.DS_Store
+Thumbs.db
+
+# ---------------------------
+# Node.js
+# ---------------------------
+node_modules/
+
+# ---------------------------
+# Environment files
+# ---------------------------
+.env
+.env.*
+
+# ---------------------------
+# Flutter/Dart specific
+# ---------------------------
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+*.apk
+*.aab
+*.so
+
+# Symbolication & Obfuscation
+app.*.symbols
+app.*.map.json
+
+# API docs
+doc/api/
+
+# ---------------------------
+# Android
+# ---------------------------
+android/
+*.keystore
+
+# ---------------------------
+# iOS/macOS
+# ---------------------------
+ios/
+macos/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+*.xcodeproj
+*.idea/
+
+# ---------------------------
+# VS Code & IntelliJ
+# ---------------------------
+.vscode/
+.idea/
+*.iml
+
+# ---------------------------
+# Miscellaneous
+# ---------------------------
+*.log
+*.swp
+*.class
+*.pyc
+.history
+.atom/
+.svn/
+.swiftpm/
+
+
