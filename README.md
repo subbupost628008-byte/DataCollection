@@ -49,6 +49,13 @@ lib/
 
 ---
 
+## Screen Record
+
+https://github.com/user-attachments/assets/1ceb387e-5aa5-4e20-8cbc-53e585fb0af4
+
+---
+
+
 ## Security
 
 - Data is stored in **MongoDB Atlas**, protected by IP whitelisting and access controls
